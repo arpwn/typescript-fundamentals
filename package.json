@@ -1,0 +1,14 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "Mi aprendizaje de fundamentos de TypeScript",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "tsc": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "ts-node": "^10.9.2"
+  }
+}
